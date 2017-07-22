@@ -5,9 +5,11 @@ Links:
 
 Slides for Walkthrough: https://docs.google.com/presentation/d/1VYiKHtZZZq4d6uKlZhefxvnmG1MAuWHmSadLl_vW2DQ/edit?usp=sharing
 
-Without CLI
+
 
 <h2>How to install this repo:</h2>
+
+<h3>Without CLI</h3>
 
 <h4>On a Mac:</h4>
 
@@ -20,7 +22,7 @@ Without CLI
 <li> Ta - Da, you can now go into Unity, open the project and should see the project directory in the Projects module</li>
   
   
-  With CLI
+  <h3>With CLI</h3>
   
   <code> cd myprojectpathtoUnity </code>
   <code> git clone https://github.com/sarapearce/wwc-unity-workshop.git</code>
