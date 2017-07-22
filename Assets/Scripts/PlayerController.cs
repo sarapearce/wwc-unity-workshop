@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour {
 
+	//add a speed variable that we can manipulate in the Inspector
 	public float speed;
 
+	//Rigidbody is used for objects that require physics
 	private Rigidbody rb;
 		
 
