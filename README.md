@@ -18,5 +18,6 @@ Slides for Walkthrough: https://docs.google.com/presentation/d/1VYiKHtZZZq4d6uKl
   
 <h3>With CLI</h3>
   
-<code> cd myprojectpathtoUnity </code>
+<h4> Go to where you have Unity storing it's assets (the path you chose on setup)</h4>
+<code> cd  MY_PATH </code>
 <code> git clone https://github.com/sarapearce/wwc-unity-workshop.git</code>
